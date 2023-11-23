@@ -3,7 +3,7 @@ Since you stumbled upon my github profile, I'd like to introduce myself properly
 
 Hello, I am Anvith Shenoy, a MCA student at St. Joseph Engineering College, Vamanjoor, Mangalore. 
 I love designing stuff, either CSS or Photoshop. And, yes I'm an artist. I hope to become the best full-stack graphic designer someday. 
-You may come across my work through dribbble.com/badrie22. 
+You may come across my work through https://www.dribbble.com/badrie22. 
 
 I was also a BCA student at Canara College, Mangaluru. BCA made a huge impact on my future. You may say I can code pretty decent, while my friends and family exaggerate about me being something better. Or so I hear frequent. Overall, you may say I am pretty confident about my stuff. 
 
