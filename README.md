@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on my portfolio, that will be based on React.js to apply and understand the extent of what I've learnt. <br>Meanwhile, I've design ideas and will be developing a few projects, to keep my enthusiasm to develop at it's best. <br><br>Moreover, I'm a freshie MCA graduate who always has been interested in the frontend development and design. <br>And last but not the least, you may call me 'Badri' or 'Badrinath Shenoy.' <hr/>
+I'm currently working on my portfolio, that will be based on React.js to apply and understand the extent of what I've learnt. <br>Meanwhile, I've design ideas and will be developing a few projects, to keep my enthusiasm to develop at it's best. <br><br>Moreover, I'm a freshie MCA graduate who always has been interested in the frontend development and design. <br>And last but not the least, you may call me 'Badri' or 'Badrinath Shenoy.' 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anvithshenoy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](http://linkedin.com/in/anvith-0406-shenoy/) 
